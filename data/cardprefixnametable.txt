@@ -94,7 +94,7 @@
 4094#Kingbird#
 // 4095#Genie's#
 4096#Venomer's#
-4097#Green#
+4097#of Green#
 // 4098#of Zephyrus#
 // 4099#of Ifrit#
 4100#Soul-Enchanted#
@@ -109,7 +109,7 @@
 // 4109#Flameguard#
 4110#Viper's#
 4111#Decussate#
-4112#Peerless#
+4112#of Peerless#
 // 4113#of Ghost#
 // 4114#Poisoning#
 4115#Malicious#
@@ -140,7 +140,7 @@
 4140#Liberation#
 // 4141#Deadly#
 4142#of Berserk#
-4143#Neutral#
+4143#of Neutrality#
 4144#of Eternity#
 4145#of Bigmouth#
 4146#Reflect#
@@ -157,7 +157,7 @@
 4157#Piercing#
 4158#Slaughter#
 4159#Deluxe#
-4160#Superior#
+4160#of Superiority#
 4161#Anti-Magic#
 4162#Sightless#
 4163#Wild#
@@ -670,7 +670,7 @@
 4681#of Genetic#
 4682#of Shadow Chaser#
 4683#of Wanderer#
-4684#Cross#
+4684#Crossed#
 4685#Adoramus#
 4686#Crimson#
 4687#Cluster#
@@ -728,13 +728,13 @@
 27030#Firebug#
 
 27081#Moonlight#
-27082#Foxtail#
+27082#of Foxtail#
 27083#Growth#
 27084#Macabre#
 27085#Delicate#
 27086#Shooter#
 27087#Truth#
-27088#Incite#
+27088#of Incitement#
 
 27101#Sorcery#
 27102#Fire Immune#
@@ -751,7 +751,7 @@
 27113#Frozen#
 27114#Firm#
 27115#Sensible#
-27116#Dual Critical#
+27116#of Heater#
 27117#Lethal#
 27118#of Pierce#
 27119#of Turtle Shell#
@@ -808,7 +808,7 @@
 27255#Ordre#
 27256#Hase#
 27257#Kuro Akuma#
-27258#Ifodes#
+27258#of Ifodes#
 27259#Licheni#
 27260#Odoric#
 27261#Ju#
@@ -942,15 +942,15 @@
 4105#Unfrozen#
 
 // ~~~ garment
-4133#Neutral#
-4056#Wind#
-4081#Earth#
-4109#Fire#
-4095#Water#
-4116#Shadow#
-4113#Ghost#
-4108#Poison#
-4071#Undead#
+4133#of Neutrality#
+4056#of Wind#
+4081#of Earth#
+4109#of Fire#
+4095#of Water#
+4116#of Shadow#
+4113#of Ghost#
+4108#of Poison#
+4071#of Undead#
 // additional
 4334#Noxious#
 4174#Devil#
@@ -1046,92 +1046,92 @@
 4925#EoeLuk3#
 
 // ~~~ honor token enchants
-4994#StrLv1#
-4995#StrLv2#
-4996#StrLv3#
-4997#Agilv1#
-4998#Agilv2#
-4999#Agilv3#
-29100#IntLv1#
-29101#IntLv2#
-29102#IntLv3#
-29103#DexLv1#
-29104#DexLv2#
-29105#DexLv3#
-29106#LukLv1#
-29107#LukLv2#
-29108#LukLv3#
-29109#VitLv1#
-29110#VitLv2#
-29111#VitLv3#
+4994#Str1#
+4995#Str2#
+4996#Str3#
+4997#Agi1#
+4998#Agi2#
+4999#Agi3#
+29100#Int1#
+29101#Int2#
+29102#Int3#
+29103#Dex1#
+29104#Dex2#
+29105#Dex3#
+29106#Luk1#
+29107#Luk2#
+29108#Luk3#
+29109#Vit1#
+29110#Vit2#
+29111#Vit3#
 
 // ~~~ bio5 enchants
 // mettle
-29151#MettleLv1#
-29152#MettleLv2#
-29153#MettleLv3#
-29154#MettleLv4#
-29155#MettleLv5#
-29156#MettleLv6#
-29157#MettleLv7#
-29158#MettleLv8#
-29159#MettleLv9#
-29160#MettleLv10#
+29151#Mettle1#
+29152#Mettle2#
+29153#Mettle3#
+29154#Mettle4#
+29155#Mettle5#
+29156#Mettle6#
+29157#Mettle7#
+29158#Mettle8#
+29159#Mettle9#
+29160#Mettle10#
 // magic essence
-29071#MeLv1#
-29072#MeLv2#
-29073#MeLv3#
-29074#MeLv4#
-29075#MeLv5#
-29076#MeLv6#
-29077#MeLv7#
-29078#MeLv8#
-29079#MeLv9#
-29080#MeLv10#
+29071#Me1#
+29072#Me2#
+29073#Me3#
+29074#Me4#
+29075#Me5#
+29076#Me6#
+29077#Me7#
+29078#Me8#
+29079#Me9#
+29080#Me10#
 // acute
-29081#AcuteLv1#
-29082#AcuteLv2#
-29083#AcuteLv3#
-29084#AcuteLv4#
-29085#AcuteLv5#
-29086#AcuteLv6#
-29087#AcuteLv7#
-29088#AcuteLv8#
-29089#AcuteLv9#
-29090#AcuteLv10#
+29081#Acute1#
+29082#Acute2#
+29083#Acute3#
+29084#Acute4#
+29085#Acute5#
+29086#Acute6#
+29087#Acute7#
+29088#Acute8#
+29089#Acute9#
+29090#Acute10#
 // archer
-29141#ArcherLv1#
-29142#ArcherLv2#
-29143#ArcherLv3#
-29144#ArcherLv4#
-29145#ArcherLv5#
-29146#ArcherLv6#
-29147#ArcherLv7#
-29148#ArcherLv8#
-29149#ArcherLv9#
-29150#ArcherLv10#
+29141#Archer1#
+29142#Archer2#
+29143#Archer3#
+29144#Archer4#
+29145#Archer5#
+29146#Archer6#
+29147#Archer7#
+29148#Archer8#
+29149#Archer9#
+29150#Archer10#
 // adamantine
-29121#AdamantineLv1#
-29122#AdamantineLv2#
-29123#AdamantineLv3#
-29124#AdamantineLv4#
-29125#AdamantineLv5#
-29126#AdamantineLv6#
-29127#AdamantineLv7#
-29128#AdamantineLv8#
-29129#AdamantineLv9#
-29130#AdamantineLv10#
+29121#Adamantine1#
+29122#Adamantine2#
+29123#Adamantine3#
+29124#Adamantine4#
+29125#Adamantine5#
+29126#Adamantine6#
+29127#Adamantine7#
+29128#Adamantine8#
+29129#Adamantine9#
+29130#Adamantine10#
 // affection
-29131#AffectionLv1#
-29132#AffectionLv2#
-29133#AffectionLv3#
-29134#AffectionLv4#
-29135#AffectionLv5#
-29136#AffectionLv6#
-29137#AffectionLv7#
-29138#AffectionLv8#
-29139#AffectionLv9#
-29140#AffectionLv10#
+29131#Affection1#
+29132#Affection2#
+29133#Affection3#
+29134#Affection4#
+29135#Affection5#
+29136#Affection6#
+29137#Affection7#
+29138#Affection8#
+29139#Affection9#
+29140#Affection10#
 
 // ~~~ other enchants
 // fighting spirit
@@ -1365,10 +1365,10 @@
 // 17.1 enchants
 39527#Def#
 39528#Mdef#
-39529#Hp Rec#
+39529#Hp#
 39530#Mental#
 39531#Vital#
-39532#Sp Rec#
+39532#Sp#
 39533#WillPower#
 39534#Power#
 39535#Magic#
@@ -1377,7 +1377,7 @@
 39538#Caster#
 39539#Critical#
 39540#Delay#
-39541#Fixed Cast#
+39541#Fixed#
 39542#Above All#
 39543#Drain Life#
 39544#Drain Soul#
@@ -1408,4 +1408,12 @@
 4103#Horong#
 27111#Furious Snowier#
 4044#Hiding#
-4040#Teleport#
+4040#of Teleport#
+
+// king schmidt
+39587#SoL#
+39588#BM#
+39589#HE#
+39590#RM#
+39591#ME#
+39592#LD#
